@@ -1,0 +1,46 @@
+Here’s the list of DSA topics for each level:
+
+### **1-Star (0 - 1399)**:
+- Arrays
+- Strings
+- Basic Sorting (Bubble Sort, Selection Sort)
+
+### **2-Star (1400 - 1599)**:
+- Binary Search
+- Recursion
+- Greedy Algorithms
+- Simple Prefix Sum & Frequency Arrays
+
+### **3-Star (1600 - 1799)**:
+- Stacks and Queues
+- Hashing
+- Basic Dynamic Programming (Fibonacci, Coin Change)
+- Number Theory (Sieve of Eratosthenes, Modular Exponentiation)
+
+### **4-Star (1800 - 1999)**:
+- Graph Algorithms (BFS, DFS, Dijkstra’s Algorithm)
+- Advanced Dynamic Programming (Knapsack, LCS, LIS)
+- Binary Trees & Tree Traversals (Inorder, Preorder, Postorder)
+- Bit Manipulation
+
+### **5-Star (2000 - 2199)**:
+- Segment Trees
+- Fenwick Trees (Binary Indexed Trees)
+- Graph Theory (MST, Topological Sort, Floyd-Warshall)
+- DP on Trees & Bitmasking
+
+### **6-Star (2200 - 2499)**:
+- Heavy-Light Decomposition
+- Persistent Segment Trees
+- Trie
+- Strongly Connected Components
+- Bridges and Articulation Points
+- Matrix Exponentiation
+- Fast Fourier Transform (FFT)
+
+### **7-Star (2500 and above)**:
+- Advanced Combinatorics
+- Suffix Arrays and Suffix Trees
+- Mo’s Algorithm
+- Dynamic Programming with Complex States
+- Network Flow
