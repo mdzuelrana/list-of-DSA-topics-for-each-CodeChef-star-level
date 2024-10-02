@@ -1,0 +1,57 @@
+Here’s a breakdown of **Data Structures and Algorithms (DSA)** topics based on the divisions in **Codeforces**:
+
+### **Division 4 (Rating < 1400)**:
+- **Basic Programming**:
+  - Arrays
+  - Strings
+  - Basic Math (GCD, LCM, Prime Numbers)
+  - Simple Greedy Algorithms
+  - Basic Sorting (Bubble Sort, Selection Sort)
+  - Simple Searching (Linear Search)
+
+### **Division 3 (Rating 1400 - 1599)**:
+- **Intermediate Topics**:
+  - Binary Search
+  - Two Pointers
+  - Recursion
+  - Prefix Sums
+  - Basic Number Theory (Sieve of Eratosthenes, Modular Arithmetic)
+  - Simple Graph Algorithms (BFS, DFS)
+  - Simple Dynamic Programming (Fibonacci, Coin Change)
+
+### **Division 2 (Rating 1600 - 1899)**:
+- **Advanced Intermediate Topics**:
+  - Stacks and Queues
+  - Hashing (unordered_map, HashSet)
+  - Sorting Algorithms (Merge Sort, Quick Sort)
+  - Advanced Greedy Algorithms
+  - Advanced Dynamic Programming (Knapsack, Longest Common Subsequence, LIS)
+  - Binary Trees & Tree Traversals (Inorder, Preorder, Postorder)
+  - Graph Algorithms (Dijkstra’s Algorithm, Floyd-Warshall, Shortest Path)
+
+### **Division 1 (Rating 1900 and above)**:
+- **Advanced Algorithms**:
+  - Segment Trees
+  - Fenwick Trees (Binary Indexed Trees)
+  - Disjoint Set Union (Union-Find)
+  - Advanced Graph Algorithms (Topological Sort, Minimum Spanning Tree)
+  - Dynamic Programming on Trees (DP on Trees)
+  - Heavy-Light Decomposition
+  - Persistent Segment Trees
+  - Suffix Arrays and Suffix Trees
+  - Advanced Dynamic Programming (Bitmask DP, DP with Complex States)
+  - Mo’s Algorithm
+  - Network Flow (Max Flow, Min Cut)
+  - Advanced Number Theory (Modular Inverse, Chinese Remainder Theorem)
+  - Matrix Exponentiation
+
+### **Higher Div 1 (Top Performers in Div 1, Rating 2400+)**:
+- **Expert-Level Topics**:
+  - Advanced Combinatorics
+  - Advanced Tree Algorithms (Link-Cut Trees, Centroid Decomposition)
+  - Dynamic Connectivity
+  - Convex Hull Optimization
+  - Advanced Data Structures (Treap, Splay Trees)
+  - Fast Fourier Transform (FFT)
+  - Bridges and Articulation Points
+  - 2-SAT Problems
