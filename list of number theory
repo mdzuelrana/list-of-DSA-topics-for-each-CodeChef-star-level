@@ -1,0 +1,37 @@
+Here's a concise list of key number theory topics and concepts commonly used in competitive programming (CP):
+
+### Number Theory Topics for Competitive Programming:
+
+1. Prime Numbers
+2. Greatest Common Divisor (GCD)
+3. Least Common Multiple (LCM)
+4. Modular Arithmetic
+5. Fermat's Little Theorem
+6. Chinese Remainder Theorem (CRT)
+7. Sieve of Eratosthenes
+8. Exponentiation by Squaring
+9. Divisor Function
+10. Euler's Totient Function (\( \phi(n) \))
+11. Wilson's Theorem
+12. Quadratic Residues
+13. Extended Euclidean Algorithm
+14. Modular Inverse
+15. Fast Exponentiation
+16. Count Primes (Sieve of Eratosthenes)
+17. Primality Testing Algorithms (e.g., Miller-Rabin)
+18. Chinese Remainder Theorem Implementation
+19. Fast Multiplication Algorithms (e.g., Karatsuba, FFT)
+20. Diophantine Equations
+
+### Recommended Practice Areas:
+- Problems related to prime factorization.
+- GCD and LCM calculations.
+- Modular arithmetic problems.
+- Sieve-related problems for prime generation.
+- Applications of number-theoretic functions in problems.
+
+### Resources for Practice:
+- **CodeChef**: Look for problems tagged with "Number Theory."
+- **Codeforces**: Search for problems with "Mathematics" or "Number Theory" tags.
+
+Focusing on these topics will strengthen your number theory knowledge and enhance your problem-solving skills in competitive programming.
