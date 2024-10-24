@@ -1,0 +1,77 @@
+To master competitive programming (CP), a strong foundation in mathematics is essential. Here's a list of key mathematical topics that are commonly used in CP:
+
+### 1. **Number Theory**
+   - Prime numbers, Sieve of Eratosthenes
+   - Greatest Common Divisor (GCD), Euclidean algorithm
+   - Modular arithmetic
+   - Fermat's Little Theorem, Euler’s Theorem
+   - Modular inverses, Chinese Remainder Theorem
+   - Factorization, Divisors, and Multiples
+   - Linear Diophantine equations
+
+### 2. **Combinatorics**
+   - Permutations and Combinations
+   - Binomial coefficients, Pascal’s Triangle
+   - Inclusion-Exclusion Principle
+   - Catalan numbers
+   - Pigeonhole Principle
+   - Stars and Bars
+
+### 3. **Algebra**
+   - Polynomials and Roots
+   - Fast Fourier Transform (FFT)
+   - Matrix Exponentiation
+   - Linear Algebra basics (determinants, inverses, rank)
+   - Gaussian Elimination
+   - Vieta’s formulas
+
+### 4. **Probability and Statistics**
+   - Basic probability rules and principles
+   - Expected value, variance
+   - Probability distributions
+   - Markov chains, Monte Carlo simulations
+
+### 5. **Graph Theory**
+   - Trees, Minimum Spanning Trees (MST)
+   - Shortest Paths algorithms (Dijkstra, Bellman-Ford, Floyd-Warshall)
+   - Topological Sorting
+   - Depth-First Search (DFS), Breadth-First Search (BFS)
+   - Eulerian paths, Hamiltonian paths
+   - Graph coloring, Bipartite graphs
+   - Network Flow (Ford-Fulkerson, Edmonds-Karp)
+
+### 6. **Geometry**
+   - Basic Euclidean geometry (triangles, circles)
+   - Convex hull (Graham scan, Jarvis march)
+   - Line intersection, Point in polygon
+   - Geometrical transformations (rotation, scaling, reflection)
+   - Sweep line algorithm
+   - Polygon area calculations, Shoelace Theorem
+
+### 7. **Dynamic Programming and Recursion**
+   - Recurrence relations
+   - Memoization and Tabulation
+   - Divide and Conquer strategies
+   - Inclusion-exclusion with dynamic programming
+   - Matrix-chain multiplication
+
+### 8. **Set Theory and Logic**
+   - Propositional and predicate logic
+   - Sets and operations
+   - Power sets and Cartesian products
+   - Venn diagrams, Boolean algebra
+
+### 9. **Advanced Topics**
+   - Game theory (Grundy numbers, Nim)
+   - Linear Programming
+   - Convex Optimization
+   - Approximation algorithms
+
+### 10. **Miscellaneous**
+   - Randomized algorithms (e.g., Monte Carlo methods)
+   - Bit manipulation
+   - Greedy algorithms
+   - Recursion and backtracking
+   - Mo's algorithm (for query optimization)
+
+These topics form the backbone of the mathematical knowledge required for CP. Mastery of these areas, combined with efficient coding and problem-solving strategies, will significantly boost your performance in competitive programming contests.
