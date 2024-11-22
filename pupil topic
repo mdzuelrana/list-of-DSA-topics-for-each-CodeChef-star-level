@@ -1,0 +1,109 @@
+To reach the **Pupil** rank on Codeforces, you need to strengthen your skills in solving problems that range from basic to intermediate level. Here is a curated list of topics to focus on, organized by priority:
+
+---
+
+### **1. Basic Programming Concepts**
+- Input/Output (Fast I/O using `cin.tie(0)` and `ios::sync_with_stdio(0)`)
+- Data Types and Overflow Issues
+- Loops and Conditionals
+- Basic Mathematics:
+  - Greatest Common Divisor (GCD) and Least Common Multiple (LCM)
+  - Prime Checking (Sieve of Eratosthenes for small ranges)
+
+---
+
+### **2. Arrays and Strings**
+- Basic Operations on Arrays and Strings
+  - Traversing, Searching, Updating
+  - Reversing and Rotating Arrays
+- Frequency Counting (using arrays or hash maps)
+- Two Pointers Technique
+- Prefix Sums (Cumulative Sum Array)
+
+---
+
+### **3. Sorting and Searching**
+- Sorting Algorithms (Built-in Sorting: `std::sort` in C++)
+- Binary Search
+- Applications of Sorting:
+  - Sorting and Searching in Arrays
+  - Finding Pairs with Given Conditions
+
+---
+
+### **4. Greedy Algorithms**
+- Greedy Techniques for:
+  - Scheduling Problems
+  - Minimizing or Maximizing Sums
+- Examples:
+  - Coin Change Problem
+  - Interval Covering Problems
+
+---
+
+### **5. Implementation Problems**
+- Simulation of Processes
+- Handling Edge Cases
+- Problems with a Step-by-Step Manual Approach
+
+---
+
+### **6. Modular Arithmetic**
+- Modular Addition, Subtraction, Multiplication
+- Handling Negative Modulo
+
+---
+
+### **7. Basic Graph Theory**
+- Representing Graphs (Adjacency List/Matrix)
+- Breadth-First Search (BFS) and Depth-First Search (DFS) for:
+  - Connected Components
+  - Flood Fill Problems
+
+---
+
+### **8. Bit Manipulation**
+- Basic Bitwise Operators (`AND`, `OR`, `XOR`, `NOT`)
+- Applications in:
+  - Finding Odd/Even
+  - Turning On/Off Specific Bits
+
+---
+
+### **9. Problem Solving Patterns**
+- Sliding Window Technique
+- Two-Pointer Technique
+- Brute Force Optimization
+- Checking All Possible Subarrays or Subsequences
+
+---
+
+### **10. C++ STL (Standard Template Library)**
+- Vectors, Sets, Maps
+- Common STL Functions (`min_element`, `max_element`, `count`, etc.)
+- Priority Queues for Simple Problems
+
+---
+
+### Practice Recommendations:
+1. Solve **A and B level problems** on Codeforces consistently.
+2. Practice **implementation-heavy problems** and focus on writing clean, bug-free code.
+3. Use problem tags on Codeforces to target specific weak areas.
+4. Gradually attempt **C problems** once you feel comfortable with **A and B**.
+
+---
+
+### Suggested Problem Sets:
+1. **CSES Problem Set** - Begin with "Introductory Problems" and "Sorting and Searching."
+2. **Codeforces Div. 3 Contests** - Focus on solving **A and B problems**.
+3. **CodeChef Beginner Problems** - Solve problems rated **1200-1400**.
+4. Use platforms like **A2OJ ladders** or **Binary Search**.
+
+---
+
+### Goals:
+- Practice solving problems within **1-2 hours** during virtual contests.
+- Solve at least **3-5 problems daily**.
+- Regularly upsolve problems that you couldn't solve during contests.
+
+By mastering these topics and maintaining consistent practice, you'll steadily improve your rating and reach **Pupil** rank on Codeforces!
